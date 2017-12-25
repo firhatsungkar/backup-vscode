@@ -55,3 +55,6 @@ Temporary Items
 
 ### Ignore Config ###
 config/*
+
+### Ignore Extensions File ###
+.extensions
