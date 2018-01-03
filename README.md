@@ -23,14 +23,14 @@ Both of backup and restore script will backup :
 ```
 - Give executable permission
 ```nash
-> chmod +x backup.py restore.py
+> chmod +x backup.sh restore.sh
 ```
 - Run backup script
 ```bash
-> ./backup.py
+> ./backup.sh
 ```
 - After script has been finish executed, It will create `config` directory for your all backup file.
-- To restore, run `restore.py`
+- To restore, run `restore.sh`
 ```bash
-> ./restore.py
+> ./restore.sh
 ```
